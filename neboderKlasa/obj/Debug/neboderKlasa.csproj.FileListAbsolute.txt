@@ -1,0 +1,8 @@
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\neboderKlasa\bin\Debug\neboderKlasa.exe.config
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\neboderKlasa\bin\Debug\neboderKlasa.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\neboderKlasa\bin\Debug\neboderKlasa.pdb
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\neboderKlasa\obj\Debug\neboderKlasa.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\neboderKlasa\obj\Debug\neboderKlasa.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\neboderKlasa\obj\Debug\neboderKlasa.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\neboderKlasa\obj\Debug\neboderKlasa.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\neboderKlasa\obj\Debug\neboderKlasa.pdb
